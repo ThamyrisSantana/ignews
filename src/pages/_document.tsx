@@ -11,7 +11,7 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Neucha&family=Roboto:wght@700;900&display=swap"
           rel="stylesheet"
         />
-        <title>My page title</title>
+        <link rel="shortcut icon" href="/favicon.png" type="image/png" />
       </Head>
       <body>
         <Main />
