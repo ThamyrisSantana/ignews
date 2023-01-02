@@ -12,7 +12,7 @@ export function SignInButton() {
       <FiX
         color="#737380"
         className={styles.closeIcon}
-        aria-label="Sair da conta"
+        aria-label="Logout account"
       />
     </button>
   ) : (
